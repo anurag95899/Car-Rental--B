@@ -1,1 +1,1 @@
-# Bike-Rental--B It is Rantal platform for Vechile
+# Car-Rental--B It is Rantal platform for Vechile
